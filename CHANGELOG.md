@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.117.1](https://www.github.com/googleapis/java-logging-logback/compare/v0.117.0...v0.117.1) (2020-05-12)
+
+
+### Dependencies
+
+* update dependency com.google.guava:guava-bom to v29 ([#77](https://www.github.com/googleapis/java-logging-logback/issues/77)) ([e4a14bf](https://www.github.com/googleapis/java-logging-logback/commit/e4a14bfa5b48d0f5a1857ab081ac46d6dcee02d0))
+
 ## [0.117.0](https://www.github.com/googleapis/java-logging-logback/compare/0.116.0...v0.117.0) (2020-04-02)
 
 
